@@ -11,7 +11,7 @@
             "normalize/ixVolume",
             "normalize/acl"
         ],
-        "human_version": "1.119.1_4.0.23",
+        "human_version": "2.5.6",
         "version": "4.0.23",
         "chart_metadata": {
             "name": "immich",
